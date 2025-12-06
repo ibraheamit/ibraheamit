@@ -62,11 +62,3 @@
 </div>
 
 ###
-
-<h2 align="left">🧑‍💻 About Me</h2>
-
-###
-
-<p align="left">🔭 I'm currently working on: Full-stack web development projects using MERN & MEAN stack.<br>🤝 I'm looking to collaborate on: Open-source projects and creative web applications.<br>💡 I'm looking for help with: Improving my skills in system design and performance optimization.<br>📚 I'm currently learning: Data structures & algorithms, Git/GitHub workflows, and SEO for web apps.<br>💬 Ask me about: Frontend development (React, Angular), Backend (Node.js, Express), and content writing.</p>
-
-###
